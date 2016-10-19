@@ -1,5 +1,11 @@
-.aboutText {
-
-    text-align: center;
-    
+.chef {
+  color: #ffffff;
+  ##font-size: 36px;
+  padding-top: 100px;
+  background-color: #2B3136;
+  height: 768px;
+  width: 100%;
+  padding-left: 250px;
+  padding-right: 250px;
+  line-height: 3rem;
 }

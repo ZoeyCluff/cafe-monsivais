@@ -1,0 +1,276 @@
+
+
+.headerBar {
+
+  font-size: 18px;
+  color: white;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-right: 50px;
+  background-color: #29292A;
+  width: 100%;
+  height: 60px;
+
+}
+
+.headerBar p {
+  float: left;
+}
+.social {
+  padding-right: 25px;
+  float: right;
+  display: inline-block;
+
+}
+
+.social a {
+
+
+  display: block;
+  background-color: #3b4045;
+  border-radius: 50%;
+  border-color: #3b4045;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  width: auto;
+  height: auto;
+
+}
+
+.clear {
+  clear: both; }
+
+.menuBar {
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-right: 50px;
+  background-color: #292C30;
+  width: 100%;
+  height: 150px;
+  display: inline-block;
+}
+
+.links  {
+
+  float: right;
+  display: inline-block;
+
+  padding-top: 25px;
+
+}
+
+.links a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  padding-right: 30px;
+  font-size: 20px;
+}
+
+a.active {
+  color: goldenrod;
+}
+
+.newsBlurbOne {
+  background-color: #313539;
+  float: left;
+  text-align: center;
+  width: 50%;
+  height: 550px;
+  overflow: hidden;
+
+
+}
+
+.blurbTitle {
+  color: #ffffff;
+  font-size: 36px;
+  padding-top: 50px;
+}
+
+.blurbSmallText {
+  color: goldenrod;
+  font-size: 18px;
+}
+
+.blurbText {
+  color: #ffffff;
+}
+
+.blurbButton {
+background-color: #313539;
+color: #ffffff;
+width: 200px;
+height: 50px;
+}
+
+.imgBlurbOne {
+  float: right;
+  width: 50%;
+  height: 550px;
+  overflow: hidden;
+  margin-right: auto;
+
+}
+
+.line-separator {
+  height: 1px;
+
+  background: #C2C2C2;
+  border-bottom: 1px solid #C2C2C2;
+ }
+
+.cater {
+  text-align: center;
+  height: 250px;
+  color: #ffffff;
+  background-color: #313539;
+}
+
+.caterHeading {
+  padding-top: 20px;
+  font-size: 36px;
+}
+
+.caterText {
+  font-size: 24px;
+  padding-top: 25px;
+
+}
+
+.specialsLeft {
+  float: left;
+  width: 50%;
+  background-color: #24292D;
+  height: 500px;
+}
+
+.specialsRight {
+  float: right;
+  width: 50%;
+  background-color: #2B3136;
+  height: 500px;
+}
+
+.monthlySpecial {
+  color: goldenrod;
+  text-align: center;
+  font-size: 24px;
+  padding-top: 25px;
+}
+
+.specialDescription {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
+.specialsLeft img {
+  margin-left: 25%;
+  padding-left: 40px;
+}
+
+.featuredArtist {
+  color: goldenrod;
+  text-align: center;
+  font-size: 24px;
+  padding-top: 25px;
+}
+
+.artistBlurb {
+  padding-top: 25px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.logo {
+  justify-content: center;
+  background-color: #313539;
+  padding-left: 41%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.contact {
+  background-color: #313539;
+  height: 300px;
+  padding-bottom: 50px;
+  color: #ffffff;
+  display: inline-block;
+  text-decoration: none;
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+
+.contact i {
+  color: goldenrod;
+    padding-top: 100px;
+  display: inline-block;
+
+
+}
+
+.contact p {
+  padding-top: 10px;
+  padding-bottom: 25px;
+
+}
+
+.email {
+  display: inline-block;
+
+}
+.email a {
+  text-decoration: none;
+  color: #ffffff;
+
+}
+
+.phone {
+  display: inline-block;
+  padding-left: 20%;
+}
+
+.findUs {
+  display: inline-block;
+  padding-left: 20%;
+  color: #ffffff;
+}
+
+.findUs a {
+  text-decoration: none;
+  color: #ffffff;
+
+}
+
+.footer {
+  display: inline-block;
+  background-color: #313539;
+  width: 100%;
+  height: 60px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.copyright {
+  float: left;
+  display: block;
+  color: #ffffff;
+
+}
+
+.name {
+  float:right;
+  display: block;
+  color: #ffffff;
+
+}
+
+.name a {
+
+  color: #ffffff;
+}

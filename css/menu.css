@@ -1,33 +1,60 @@
-.menuHeading {
-
-    text-align: center;
-    font-size: 18px;
-
+.title {
+  color: #ffffff;
+  font-size: 32px;
+  padding-top: 50px;
 }
 
-.time {
-
-    text-align: center;
-    font-weight: bold;
-    font-size: 24px;
-    margin-bottom: 15px;
-    text-decoration: underline;
+.blurbSmallText {
+  color: goldenrod;
+  font-size: 18px;
+  width: 75%;
+margin: 0 auto;
+padding-bottom: 10px;
 }
 
 .menuItem {
-    margin-top: 20px;
-    margin-left: 25px;
+  color: #ffffff;
+  width: 75%;
+margin: 0 auto;
+
 }
 
-.title {
-
-    font-weight: bold;
-    font-size: 20px;
-    text-decoration: underline;
-    margin-left: 25px;
+.menuItem p {
+  width: 75%;
+margin: 0 auto;
 }
 
-.drinks ul {
-    list-style-type: none;
-    text-align: center;
+.menuLeft {
+  background-color: #313539;
+  float: left;
+
+  width: 50%;
+  height: 1000px;
+  overflow: hidden;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.menuRight {
+  background-color: #313539;
+  float: right;
+
+  width: 50%;
+  height: 750px;
+  overflow: hidden;
+
+}
+
+
+.dinner {
+
+  height: 1024px;
+  background-color: #313539;
+}
+
+.featuredArtist {
+  color: goldenrod;
+
+  font-size: 36px;
+  padding-top: 25px;
 }

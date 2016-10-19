@@ -1,10 +1,12 @@
-.gmaps {
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
-}
+.chef {
+  color: #ffffff;
+  ##font-size: 36px;
+  padding-top: 100px;
+  background-color: #2B3136;
+  height: 768px;
+  width: 100%;
 
-.location {
-    margin-bottom: 15px;
+  line-height: 3rem;
+  justify-content: center;
+  text-align: center;
 }
